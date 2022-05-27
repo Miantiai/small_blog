@@ -1,0 +1,8 @@
+.component {
+  border-radius: 20px;
+  display: flex;
+}
+
+.wrapCustomNavLink {
+  margin: 0 15px;
+}

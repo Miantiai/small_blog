@@ -1,0 +1,9 @@
+.component {
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+}
+
+.active {
+  color: wheat;
+}
