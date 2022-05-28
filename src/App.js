@@ -5,7 +5,9 @@ import './style/App.css';
 export default function App() {
   return (
     <div className="App">
-      <Navbar />
+      <div className="wrapNavbar">
+        <Navbar />
+      </div>
       <AppRouter />
     </div>
   );
